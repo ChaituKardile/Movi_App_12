@@ -14,7 +14,7 @@ const Header = () => {
           <ul className="nav-list">
             <li>
               <Link className="links" to="/">
-                <AiFillHome /> Home
+                <AiFillHome /> Home1
               </Link>
             </li>
             <li>
